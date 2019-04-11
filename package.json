@@ -1,0 +1,28 @@
+{
+  "name": "ias-emergencynotificationglue",
+  "version": "0.1.0",
+  "description": "This should act as a glue between Distance Sensor and Emergency Notification Service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iiithf/ias-emergencynotificationglue.git"
+  },
+  "keywords": [
+    "ias",
+    "emergency",
+    "notification",
+    "glue"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iiithf/ias-emergencynotificationglue/issues"
+  },
+  "homepage": "https://github.com/iiithf/ias-emergencynotificationglue#readme",
+  "dependencies": {
+    "needle": "^2.3.0"
+  }
+}
