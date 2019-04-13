@@ -4,6 +4,7 @@
   "description": "This should act as a glue between Distance Sensor and Emergency Notification Service.",
   "main": "index.js",
   "scripts": {
+    "start": "node ./",
     "test": "exit"
   },
   "repository": {
